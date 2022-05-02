@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fdd7f84-b725-4f77-871f-e0b6b3a8eb94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28NG0tSMZUhSHPthzoqWZjmH39L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\HAFIFA\helloworldML\model_creator\service" />
+      <recent name="C:\Users\ASUS\Desktop\HAFIFA\helloworldML\serving_model_api\model" />
+      <recent name="C:\Users\ASUS\Desktop\HAFIFA\helloworldML\serving_model_api" />
+      <recent name="C:\Users\ASUS\Desktop\HAFIFA\helloworldML\model_creator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app (1)">
+    <configuration name="MLprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="helloworldML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="helloworldML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/serving_model_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serving_model_api/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="helloworldML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ASUS\Desktop\HAFIFA\helloworldML\serving_model_api\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="helloworldML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model_creator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_creator/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.MLprocess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fdd7f84-b725-4f77-871f-e0b6b3a8eb94" name="Default Changelist" comment="" />
+      <created>1651049409695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651049409695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="148" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1651087664172">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="376" y="148" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672@0.0.1280.672" timestamp="1651087664172" />
+    <state width="823" height="466" key="DebuggerActiveHint" timestamp="1651100083815">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="823" height="466" key="DebuggerActiveHint/0.0.1280.672@0.0.1280.672" timestamp="1651100083815" />
+    <state width="1259" height="165" key="GridCell.Tab.0.bottom" timestamp="1651500544860">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="165" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1651500544860" />
+    <state width="1259" height="165" key="GridCell.Tab.0.center" timestamp="1651500544860">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="165" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1651500544860" />
+    <state width="1259" height="165" key="GridCell.Tab.0.left" timestamp="1651500544860">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="165" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1651500544860" />
+    <state width="1259" height="165" key="GridCell.Tab.0.right" timestamp="1651500544860">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="165" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1651500544860" />
+    <state width="1259" height="260" key="GridCell.Tab.1.bottom" timestamp="1651136098135">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="260" key="GridCell.Tab.1.bottom/0.0.1280.672@0.0.1280.672" timestamp="1651136098135" />
+    <state width="1259" height="260" key="GridCell.Tab.1.center" timestamp="1651136098135">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="260" key="GridCell.Tab.1.center/0.0.1280.672@0.0.1280.672" timestamp="1651136098135" />
+    <state width="1259" height="260" key="GridCell.Tab.1.left" timestamp="1651136098135">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="260" key="GridCell.Tab.1.left/0.0.1280.672@0.0.1280.672" timestamp="1651136098135" />
+    <state width="1259" height="260" key="GridCell.Tab.1.right" timestamp="1651136098135">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="260" key="GridCell.Tab.1.right/0.0.1280.672@0.0.1280.672" timestamp="1651136098135" />
+    <state x="346" y="92" width="588" height="488" key="find.popup" timestamp="1651135171500">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="346" y="92" width="588" height="488" key="find.popup/0.0.1280.672@0.0.1280.672" timestamp="1651135171500" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="DATASETS[dataset_name]" language="Python" />
+        <watch expression="os.path.exists(DATASETS[dataset_name])" language="Python" />
+        <watch expression="self.dependent_variables" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
