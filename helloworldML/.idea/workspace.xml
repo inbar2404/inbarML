@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="28NG0tSMZUhSHPthzoqWZjmH39L" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +25,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -143,6 +148,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="376" y="148" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672@0.0.1280.672" timestamp="1651087664172" />
+    <state x="301" y="0" key="CommitChangelistDialog2" timestamp="1651501079879">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="301" y="0" key="CommitChangelistDialog2/0.0.1280.672@0.0.1280.672" timestamp="1651501079879" />
     <state width="823" height="466" key="DebuggerActiveHint" timestamp="1651100083815">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -179,6 +188,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="1259" height="260" key="GridCell.Tab.1.right/0.0.1280.672@0.0.1280.672" timestamp="1651136098135" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1651501001310">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1651501001310" />
     <state x="346" y="92" width="588" height="488" key="find.popup" timestamp="1651135171500">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
